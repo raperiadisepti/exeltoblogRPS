@@ -1,2 +1,2 @@
 # exeltoblogRPS
-berisi css untuk view exel dari blog , source db restu merapi
+repository untuk bahan2 pendukung view exel dari blog , source db restu merapi
